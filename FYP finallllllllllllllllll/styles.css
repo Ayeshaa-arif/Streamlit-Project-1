@@ -1,0 +1,11 @@
+div.stButton > button {
+    background-color: lightblue;
+    color: black;
+    height: auto;
+    width: max-content;
+}
+
+div.stButton > button:hover {
+    background-color: darkblue;
+    color: white;
+}
